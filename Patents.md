@@ -38,5 +38,5 @@
 * Patent App, “Method and Apparatus for Probability Weighted DASH based Video Streaming over ICN Networks”
 * Patent App, “Method and Apparatus for Named Based Routing in Constrained ICN Networks”
 * Patent App, “Method and Apparatus for Seamless Consumer Mobility in Information Centric Networks”
-* Patent App, “Balanced Load Execution with Locally Distributed FIBs in Information Centric Networks”,  
+* Patent App, “Balanced Load Execution with Locally Distributed FIBs in Information Centric Networks”
 
