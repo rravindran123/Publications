@@ -1,10 +1,22 @@
+# External Talks & Panels
+* Ravi Ravindran , “Enabling SMO over Nephio, a perspective”, ORAN-SC Workshop, ONE Summit, 2024, https://wiki.o-ran-sc.org/display/EV/O-RAN-SC+Workshop+At+ONE+Summit+2024
+* Invited to be in the industry panel on 5G and IoT at IEEE ICNC, 2019, http://www.conf-icnc.org/2019/
+* Keynote at Intel’s ICN-WEN Workshop, June 2018, Title “ICN Research to Commercialization”, 2018  https://github.com/ravi3442/public/blob/master/ICN-Research-keynote-v1.1.pdf
+* Lightreading interview on future of ICN at BCE Industry event: http://www.lightreading.com/mobile/5g/realizing-icn-as-a-network-slice-for-mobile-data-distribution/v/d-id/733785
+* Speaker at Open Networking Summit , 2016, “End-to-end Service Slicing for Network Generation Wireless  Networks”, http://events.linuxfoundation.org/sites/events/files/slides/ON-Summit-Slides-FINAL.pdf
+* Invited presentation at ETRI Lab (Seoul) on “ICN for IoT ”
+* Presentation at CCNxCon, 2013, “Towards SDN enabled ICN based Edge Cloud Services”.
+* Presentation at Huawei’s annual technology workshop, 2013, on “Towards Information-centric Networking and Applications”.
+* Speaker at Intel Developer Forum, 2011, San Francisco, Presentation on “Information-Centric Networking”
+* Panelist at Emerging Network Consortium meet conducted by PARC, April, 2012 on “Emerging Applications of Content-centric Networking”
+
+
 # Journals & Transactions
 * R. Ravindran, C. Huang, K. Thulasiraman, and T. Lin, “Topology Abstraction Service for IP VPNs: Core Network Partitioning for Resource Sharing,” American Journal of Operations Research, 8, 167-202, May, 2018. https://doi.org/10.4236/ajor.2018.83011
 * Ravishankar Ravindran, Changcheng Huang and K.Thulasiraman, "Topology Abstractions Service for IP VPNs ", IEEE Transactions on Parallel and Distributed Systems, Jan, 2013.
 * Haiyang Qian, Fu Li, Ravishankar Ravindran, Deep Medhi, “Energy Aware Aggregation of Dynamic Temporal Workload in Data Centers”, IEEE Transactions on Parallel and Distributed Systems, 2015
 
 # Conference/Workshops/Talks:
-* Ravi Ravindran , “Enabling SMO over Nephio, a perspective”, ORAN-SC Workshop, ONE Summit, 2024
 * Ravi Ravindran, Aytac Azgin, K.K.Ramakrishnan, “Edge Transport (ETRA): Edge Transport Protocols for Next generation Mobile IoT Systems”, IEEE, Globecom Network 2030 Workshop, 2019 (to appear)
 * Aytac Azgin, Ravi Ravindran, “Network-assisted Consumer Mobility Support for Information Centric Networks”, IEEE, ICCCN, 2019
 * Ravi Ravindran, “ ‘Edge’ Network Architecture Challenges for Next Generation IoT System”, IEEE/ICNC, 2019, 5G/IoT Industry Forum, https://github.com/ravi3442/public/blob/master/icnc-Ravi-v2.pdf
