@@ -1,6 +1,6 @@
 # Standards Contributions
 
-**IETF/IRTF**
+## IETF/IRTF
 * RFC 9269, “Experimental Scenarios of Information-centric networking (ICN) integration in 4G Mobile Networks” https://datatracker.ietf.org/doc/rfc9269
 * RFC 8763, “Deployment Configurations for Information-Centric Networks (ICN)”, IETF/ICNRG, https://datatracker.ietf.org/doc/rfc8763
 * Ravi Ravindran, Prakash Suthar, Dirk Trossen, Chonggang Wang, Greg White, “Enabling ICN in 3GPP’s 5G Next Generation Core Network”, IETF/ICNRG ,https://tools.ietf.org/id/draft-ravi-icnrg-5gc-icn-00.html (Proposed RG Document),
@@ -15,17 +15,17 @@
 * Xinwen Zhang, Ravi Ravindran, G.Q.Wang, “PID: A Generic Naming Schema for Information-centric Network”, Jan 20, 2013. http://datatracker.ietf.org/doc/draft-zhang-icnrg-pid-naming-scheme/
 * Contribution towards ICN-RG draft titled, “ICN Baseline Scenarios and Evaluation Methodology”, June, 2013. http://datatracker.ietf.org/doc/draft-pentikousis-icn-scenarios/  (RFC now)
 
-**ITU**
+## ITU
 * ITU, FG, IMT 2020 (5G)– “Network Standardization Requirement for 5G” http://www.itu.int/en/ITU-T/focusgroups/imt-2020/Documents/T13-SG13-151130-TD-PLEN-0208!!MSW-E.docx 
 ATIS
 * Core contributor to Emerging Content Oriented Networking Working group (ECON). This was a multivendor and operator effort. Phase-2 Report: “ATIS Report: eCON Value Assessment Report − A Comparative Study of ICN Versus Conventional Approaches, Issue 2” https://access.atis.org/apps/group_public/download.php/39362/ATIS-I-0000064.pdf
 
-**O-RAN** 
+## O-RAN 
 * Active participant of WG1/2/3 defining use cases, A1 and E2 interface and protocol definitions.
 * “Realizing Dynamic Spectrum Sharing (DSS) over the RIC framework”, WG1/UCTG Use case contribution, Feb, 2020 (now an approved use case by WG-1)
 * Contributing to O-Cloud Optimization and Network Slicing work items in WG-6
 
-**Nephio**
+## Nephio
 * Been part of this forum since the first Nephio Tech Summit, 2022
 * Elected as part of the LFN/Nephio's TSC - https://github.com/nephio-project/governance/blob/main/CONTRIBUTORS.md#technical-steering-committee-tsc---voting-members
 * Contributed by validating the scenarios for One-Summit, 2022 - https://wiki.nephio.org/display/HOME/Workshop+Logistics
@@ -40,7 +40,7 @@ ATIS
   - https://docs.google.com/presentation/d/1aG_5qaJIrGvqk2ArFXONGZnAuRRri9fN/edit#slide=id.p1
   - https://docs.google.com/presentation/d/1QWy6lqbJEeI9pM044T23_kJCisYR3LtmsIhHxomiyog/edit?pli=1#slide=id.g28c0912c41f_2_82
 * Sig Automation
-* Git PR's related to end-to-end test scenarios in R1, decoupling Gitea from the Nephio Controller Manager/Token & Repository Reconcilers in R2
-* https://github.com/nephio-project/nephio/pull/410/commits
-* https://github.com/nephio-project/test-infra/pull/111
-* https://github.com/nephio-project/nephio/pull/423
+  - Git PR's related to end-to-end test scenarios in R1, decoupling Gitea from the Nephio Controller Manager/Token & Repository Reconcilers in R2
+  - https://github.com/nephio-project/nephio/pull/410/commits
+  - https://github.com/nephio-project/test-infra/pull/111
+  - https://github.com/nephio-project/nephio/pull/423
