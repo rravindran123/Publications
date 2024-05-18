@@ -1,6 +1,6 @@
 # Patents
 
-* http://tinyurl.com/yfnfkbnj (full list from USPTO)
+* http://tinyurl.com/yfnfkbnj ( ~90 patents, full list from USPTO)
 * Patent No. 10,277,481, “Stateless forwarding in information centric networks with bloom filters”
 * Patent No. 10,271,253, “Mapping scheme employed in ICN to manage domain based security & mobility”
 * Patent No. 10,270,689, “Multi-nonce enabled interest packet design for named data networking”
