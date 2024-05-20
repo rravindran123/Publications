@@ -67,7 +67,7 @@
 * Ravishankar Ravindran, Changcheng Huang, and K.Thulasiraman, “A Dynamic Managed VPN Service: Architecture and Algorithms”, IEEE, ICC, May 2006, Istanbul.
 * Ravishankar Ravindran, Changcheng Huang, and K.Thulasiraman, “Topology Aggregation as a VPN Service”, IEEE, ICC, May 2005, Seoul.
 
-# NON-Refreed Publications (Invited Papers, Technical Reports, Thesis etc.)
+# Non-Refreed Publications (Invited Papers, Technical Reports, Thesis etc.)
 * Technical Report - Analysis of vRAN Split Options 7.2/6/8
 * Ravishankar Ravindran, Peter Ashwood-Smith, Guo-Qiang Wang, and Zhang Hong, "Multiple Abstraction Schemes for Virtual Private Switched Networks", IEEE CCECE, May 2004, Niagara
 * Ravishankar Ravindran, K.Thulasiraman et al, “Quality of Service Routing : Heuristics and Approximation Schemes with a Comparative Evaluation”, IEEE ISCAS 2002, Arizona, Phoenix.
