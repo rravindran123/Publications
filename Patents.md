@@ -1,8 +1,13 @@
 # Patents
 
-* http://tinyurl.com/yfnfkbnj ( ~90 patents, full list from USPTO)
-# Sample list of patents 
+* http://tinyurl.com/yfnfkbnj ( ~90 patents (granted/filed), full list from USPTO)
+# Sample list of patents
 * Patent No. US-20240111594-A1, APPARATUS AND METHODS FOR RADIO ACCESS NETWORK OPTIMIZATION BY EXTENDING NEAR-RT AND NON-RT RIC FUNCTIONALITY FOR O-CLOUD OPTIMIZATION AND MANAGEMENT
+* Patent No. US11337131B1 Method and apparatus for recommending real-time handover to a target cell in open-radio access network (O-RAN) environment
+* Patent No. EP3855844A1 Method and apparatus for allocating bandwidth in a wireless communication system based on utilization
+* Patent No. WO2021152634A1 Method and apparatus for distribution and synchronization of radio resource assignments in a wireless communication system
+* Patent No. EP3962171A1 User equipment centric wide area optimization method and system thereof
+* Patent No. EP4072192A1 Method and apparatus for updating handover parameters in open-radio access network (o-ran) environment
 * Patent No. 10,277,481, “Stateless forwarding in information centric networks with bloom filters”
 * Patent No. 10,271,253, “Mapping scheme employed in ICN to manage domain based security & mobility”
 * Patent No. 10,270,689, “Multi-nonce enabled interest packet design for named data networking”
