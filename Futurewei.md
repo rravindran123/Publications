@@ -5,10 +5,11 @@
 * Contributed to next generation future Internet architecture system design that aims at evolving current Internet architecture to handle efficient information dissemination leveraging several recent proposals from external labs, NSF sponsored projects and European research programs. 
 * Several Prototypes demonstrating Next Generation Internet features, Patents and Publications generated as a result of the following projects:  
 * Realizing ICN as a slice using SDN/NFV orchestrators over a 5G infrastructure enabling heterogeneous IoT and conferencing services.
+* Part of a team to demonstrate software-based 40Gbs content router design based on x-86 platform (Routebricks/Sigcomm'09). This project involved collaboration with Intel Berkeley Lab.
 * Research and prototype of Inter- and Intra-Domain Control and High Speed Forwarding planes, Content Router design, Mobility Protocol and Design, and Enabling Services in an ICN framework including IoT and conferencing using SDN and NFV frameworks
 * Overlay A/V conferencing prototype using ONOS, Swarm orchestrators using ICN networking with scalability much larger than current IP based conferencing solutions.
+* Stateless ICN forwarding using P4 over Netronome (https://open-nfp.org/static/pdfs/Research-Huawei-Aytaz-Stateless-Forwarding-with-P4.2dcb63c28b60.pdf)
 * Extending OSPF for name-based routing particularly used Quagga implementation. Extended auto-discovery, SPF routing features to accommodate new paradigms. Also experimented with ISIS to achieve the same.
-* Part of a team to demonstrate software-based 40Gbs content router design based on x-86 platform. This project involved collaboration with Intel Berkeley Lab.
 * Novel producer and consumer mobility design for content-centric networking (CCN) environment. Demonstrated heterogeneous mobility prototype by extending CCNx code base over Software defined Radio platform (USRP B210/N10), Open Air Interface stack (OAI) and Wifi.
 * Designed solutions demonstrating IoT Home Networking environment over Arduino/RIOT/CCN-lite platform through features like secure onboarding, neighbor/service discovery, policy based routing, name-based firewalling, and HTTP-ICN gateway functionalities.  
 * Enabling Content Distribution using SDN control and building adaptive forwarding strategies for Named Data Networks.
