@@ -29,37 +29,28 @@
 * Research contribution towards addressing routing and wavelength assignment problem.
 * The work resulted in valuable IPR in the area of wavelength routing in photonic networks.
 
+# Generalized Layer 1 Virtual Private Networks 
+* Technology demonstrator of provisioning L1 VPN using GMPLS based control plane.
+* Involved in prototyping and augmenting Nortel proposed Generalized L1 VPN IETF proposal.
+* Implemented and extended multi-protocol extended I-BGP for VPN membership discovery.
+* The work was also extended to demonstrate Virtual Private Switched Networks.
+* Generated two patents and publications related to addressing problems related to dynamic routing and signaling between IP and Optical domains.
 
 
+# 4G Wireless Access System Projects (WiMax , LTE) (Nortel)
+* WiMax MAC QoS Scheduling Mechanisms, Capacity Planning, Provisioning of Multimedia Services
+* Simulation and Modeling of end-to-end network with WiMax access with multiple QoS service classes following recommendations and standards from IEEE 802.16e and WiMax forum
+* Simulation and performance analysis of multimedia applications performance over WiMax (IEEE 802.16e) using OPNET (Discrete Event Simulator).
+* Addressed engineering problems related to meeting user QoE and application requirements through cell capacity planning analysis and evolving end-to-end QoS engineering guidelines.
+* Provided MAC layer QoS provisioning recommendations for network planners for service provider network provisioning.
+* Recommendations of mapping of application to WiMax QoS service classes, ranges and threshold settings of parameters pertaining to different scheduling schemes.
+* Recommendations on engineering operating regions of service class parameters to optimize application performance while trading off control overhead.
+* Resulted in a conference publication summarizing the novel contributions from this work.
 
-
-
-
-
-
-
-Generalized Layer 1 Virtual Private Networks 
-●	Technology demonstrator of provisioning L1 VPN using GMPLS based control plane.
-●	Involved in prototyping and augmenting Nortel proposed Generalized L1 VPN IETF proposal.
-●	Implemented and extended multi-protocol extended I-BGP for VPN membership discovery.
-●	The work was also extended to demonstrate Virtual Private Switched Networks.
-●	Generated two patents and publications related to addressing problems related to dynamic routing and signaling between IP and Optical domains.
-
-
-4G Wireless Access System Projects (WiMax , LTE) (Nortel)
-WiMax MAC QoS Scheduling Mechanisms, Capacity Planning, Provisioning of Multimedia Services
-●	Simulation and Modeling of end-to-end network with WiMax access with multiple QoS service classes following recommendations and standards from IEEE 802.16e and WiMax forum.
-●	Simulation and performance analysis of multimedia applications performance over WiMax (IEEE 802.16e) using OPNET (Discrete Event Simulator).
-●	Addressed engineering problems related to meeting user QoE and application requirements through cell capacity planning analysis and evolving end-to-end QoS engineering guidelines.
-●	Provided MAC layer QoS provisioning recommendations for network planners for service provider network provisioning.
-●	Recommendations of mapping of application to WiMax QoS service classes, ranges and threshold settings of parameters pertaining to different scheduling schemes.
-●	Recommendations on engineering operating regions of service class parameters to optimize application performance while trading off control overhead.
-●	Resulted in a conference publication summarizing the novel contributions from this work.
-
-LTE eNodeB Resource Scheduling Algorithms and Interference Mitigation Strategies
-●	Worked in coordination with LTE system designers to understand alternatives to Proportional Fairness scheduling algorithm in order to support QoS requirements.
-●	Recommendations to improve base implementation of Proportional Fairness scheduling algorithm for LTE.
-●	Research and analysis of various QoS constraint wireless packet scheduling mechanisms from literature applicable for implementation in base station for LTE.
-●	Conducted research and provided recommendations of various adaptive Fractional Frequency Reuse (FFR) strategies for OFDMA systems.
+# LTE eNodeB Resource Scheduling Algorithms and Interference Mitigation Strategies
+* Worked in coordination with LTE system designers to understand alternatives to Proportional Fairness scheduling algorithm in order to support QoS requirements
+* Recommendations to improve base implementation of Proportional Fairness scheduling algorithm for LTE.
+* Research and analysis of various QoS constraint wireless packet scheduling mechanisms from literature applicable for implementation in base station for LTE.
+* Conducted research and provided recommendations of various adaptive Fractional Frequency Reuse (FFR) strategies for OFDMA systems.
 
 
