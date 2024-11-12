@@ -1,4 +1,4 @@
-# Next Generation Architectures (IP++/CDN, ICN, IoT, SDN, NFVi, 5G/LTE) 
+# Next Generation Architectures ( IP++/CDN, ICN, SDN, NFVi,IoT,5G/LTE) 
 * Research next generation of edge networking architectures to handle demands from large-scale deployment of Autonomous Vehicles, Drones and Robots with support for distributed inference, mobility, service migration.
 * Lead 5G/ICN research in Huawei influencing standards (IETF, ITU, ATIS), industry and research community through contributions on IoT, Content Distribution, Mobility architectures and solutions.
 * Conduct advanced technology research in the area of Future Internet Architectures combining Software Defined Networking (SDN) and Network Function Virtualization (NFVi) technologies. 
