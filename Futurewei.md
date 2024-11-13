@@ -8,7 +8,7 @@
 * Part of a team to demonstrate software-based 40Gbs content router design based on x-86 platform (Routebricks/Sigcomm'09). This project involved collaboration with Intel Berkeley Lab.
 * Research and prototype of Inter- and Intra-Domain Control and High Speed Forwarding planes, Content Router design, Mobility Protocol and Design, and Enabling Services in an ICN framework including IoT and conferencing using SDN and NFV frameworks
 * Overlay A/V conferencing prototype using ONOS, Swarm orchestrators using ICN networking with scalability much larger than current IP based conferencing solutions.
-* Stateless ICN forwarding using P4 over Netronome (https://open-nfp.org/static/pdfs/Research-Huawei-Aytaz-Stateless-Forwarding-with-P4.2dcb63c28b60.pdf)
+* Stateless ICN forwarding using P4 over Netronome ([https://open-nfp.org/static/pdfs/Research-Huawei-Aytaz-Stateless-Forwarding-with-P4.2dcb63c28b60.pdf](https://www.youtube.com/watch?v=wCbf7Zo8M8Y&t=23s))
 * Extending OSPF for name-based routing particularly used Quagga implementation. Extended auto-discovery, SPF routing features to accommodate new paradigms. Also experimented with ISIS to achieve the same.
 * Novel producer and consumer mobility design for content-centric networking (CCN) environment. Demonstrated heterogeneous mobility prototype by extending CCNx code base over Software defined Radio platform (USRP B210/N10), Open Air Interface stack (OAI) and Wifi.
 * Designed solutions demonstrating IoT Home Networking environment over Arduino/RIOT/CCN-lite platform through features like secure onboarding, neighbor/service discovery, policy based routing, name-based firewalling, and HTTP-ICN gateway functionalities.  
